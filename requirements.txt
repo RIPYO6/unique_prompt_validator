@@ -1,0 +1,7 @@
+gradio
+langchain
+langchain-ollama
+langchain-chroma
+chromadb
+pandas
+datasets
