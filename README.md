@@ -17,7 +17,7 @@ Ensuring semantic diversity and preventing redundancy in LLM instruction dataset
 - **Embeddings**: Ollama (`embeddinggemma:300m`)
 - **Vector Store**: ChromaDB
 - **UI/UX**: Gradio
-- **Data**: Hugging Face `datasets`
+- **Data**: [10k Prompts Ranked](https://huggingface.co/datasets/data-is-better-together/10k_prompts_ranked) (Hugging Face)
 
 ## 🚀 Getting Started
 
